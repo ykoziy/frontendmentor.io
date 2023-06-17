@@ -34,7 +34,7 @@ I learned how to really use Flexbox and how it makes the job easier for creating
 
 ### Continued development
 
-Get more comfortable using Flexbox and Grid
+Get more comfortable using Flexbox
 
 ## Author
 
