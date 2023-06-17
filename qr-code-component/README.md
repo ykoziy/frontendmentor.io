@@ -18,8 +18,8 @@ A challenge to create a QR-Code component based on the designs provided.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qrcode-component-using-htmlcss-VORezLy4Ph](https://www.frontendmentor.io/solutions/qrcode-component-using-htmlcss-VORezLy4Ph)
+- Live Site URL: [https://main--teal-pasca-23f53f.netlify.app/](https://main--teal-pasca-23f53f.netlify.app/)
 
 ## My process
 
@@ -27,7 +27,6 @@ A challenge to create a QR-Code component based on the designs provided.
 
 - HTML5/CSS
 - Flexbox
-- CSS Grid
 
 ### What I learned
 
