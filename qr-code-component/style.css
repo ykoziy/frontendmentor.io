@@ -31,7 +31,6 @@ body {
   background-color: var(--while);
   flex-direction: column;
   align-items: center;
-  color: var(--grayish-blue);
   max-width: 20rem;
   padding: 1rem;
   margin: 1rem;
@@ -51,4 +50,9 @@ body {
 .card h1 {
   color: var(--dark-blue);
   font-weight: 700;
+}
+
+p {
+  color: var(--grayish-blue);
+  font-weight: 400;
 }
