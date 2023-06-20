@@ -30,7 +30,7 @@ A challenge to create a QR-Code component based on the designs provided.
 
 ### What I learned
 
-I learned how to really use Flexbox and how it makes the job easier for creating a layout.
+I learned how to really use Flexbox and how it makes the job easier for creating a layout. Also from the feedback on the frontendmentor.io, learned to utilize HTML semantic elements.
 
 ### Continued development
 
